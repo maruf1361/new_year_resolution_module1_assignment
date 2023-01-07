@@ -8,13 +8,15 @@
 header {
     text-align: right;
     background-image: url(../images/banner/banner2.png);
-    width: 1600px;
-    height: 809px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* width: 1600px;
+    height: 809px; */
     padding-right: 60px;
 }
 
 .header-div {
-    padding: 100px 100px 263px 845px;
+    padding: 50px 100px 263px 845px;
 }
 
 .header-heading {
